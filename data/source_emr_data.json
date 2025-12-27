@@ -1,0 +1,18 @@
+[
+  {
+    "patient_id": "PAT001",
+    "dob": "1985-06-12",
+    "gender": "M",
+    "visit_id": "V1001",
+    "visit_date": "2024-09-01",
+    "billing_amount": 1000
+  },
+  {
+    "patient_id": "PAT002",
+    "dob": "1990-03-20",
+    "gender": "F",
+    "visit_id": "V1002",
+    "visit_date": "2024-09-01",
+    "billing_amount": 2000
+  }
+]
